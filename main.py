@@ -23,7 +23,7 @@ print(now_today)
 
 petsa = now_today.strftime('%m/%d/%Y')
 
-oras = now_today.strftime("%H:%M:%S" + ' (+01:00:00)')
+oras = now_today.strftime("%H:%M:%S")
 
 #These are all the listed words
 happy_words = ["lipaya", "happy", "Happy", "Lipay", "Lipaya", "lipay", "smiling", "smiley","Smiling", "Smiley", "I feel better"]
